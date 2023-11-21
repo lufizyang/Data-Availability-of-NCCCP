@@ -1,0 +1,11 @@
+NODENUM: 1000
+CLUSNUM: 10
+Total Capacity: 5557.0355
+
+Explaination of files:
+ - adjoint.npy:     Adjacency matrix;
+ - attribute.npy:   The attribute values (demands) for all nodes, a List;
+ - capa.npy:        The capacity of each cluster, a List;
+ - euclid_dist.npy: The Euclidean distance between each pair of nodes;
+ - graph_dist.npy:  The graph distance between each pair of nodes;
+ - pos.npy:         The coordinate of each node.

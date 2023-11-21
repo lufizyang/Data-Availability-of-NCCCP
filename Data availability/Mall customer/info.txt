@@ -1,0 +1,4 @@
+Explaination of files:
+ - bank_transactions.csv: A bank customer segmentation dataset offered by Kaggle (https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation);
+ - Location.xlsx: A geographic coordinate information dataset of India (https://www.tageo.com/index-e-in-cities-IN.htm)
+ - clus_data.xlsx: The data jointed from above two data, using as the bank customer segmentation example in the paper.
